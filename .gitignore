@@ -1,0 +1,6 @@
+/.ackrc
+/.build/
+!/.gitignore
+/.latest
+/HTML-Form-JSONSchema-*/
+/HTML-Form-JSONSchema-*.tar.gz
